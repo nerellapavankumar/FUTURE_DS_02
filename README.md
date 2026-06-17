@@ -75,5 +75,4 @@ Business Intelligence Reporting
 👨‍💻 Author
 Pavan Kumar Nerella
 Connect with Me
-LinkedIn:
-GitHub: 
+LinkedIn: https://www.linkedin.com/posts/pavan-kumar-nerella-b178a63b7_futureinterns-futureinternstask2-powerbi-ugcPost-7473048154905567233-rfUu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGXB6MMBRbQUmm1c6GQQ0G98_dD2QkgaXfs
